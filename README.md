@@ -235,16 +235,21 @@ GET /api/customers/999
 ### Postman Screenshots
 
 #### Create Customer
-![Create Customer](docs/screenshots/create-customer.png)
+![01_post_create_customer](https://github.com/user-attachments/assets/00d23117-125e-415d-b63f-b4e11a4d6210)
+
+
 
 #### Create Flight Booking
-![Create Flight Booking](docs/screenshots/create-flight-booking.png)
+![06_post_create_flight_booking](https://github.com/user-attachments/assets/5cf99373-fe6d-4281-9882-1720a382da72)
+
 
 #### Get All Bookings
-![Get All Bookings](docs/screenshots/get-all-bookings.png)
+![08_get_all_bookings](https://github.com/user-attachments/assets/5c9c912a-8907-4a2c-a390-15695e4ace39)
 
-#### Confirm Booking
-![Confirm Booking](docs/screenshots/confirm-booking.png)
+
+#### DELETE Booking
+![12_delete_booking](https://github.com/user-attachments/assets/a05cc92c-f5f0-469c-812d-65b4f80cfe82)
+
 
 ---
 
